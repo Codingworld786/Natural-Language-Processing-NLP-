@@ -42,3 +42,5 @@ Consider the impact of correlated features on model performance.
 Future Work
 Explore additional NLP techniques like word embeddings.
 Investigate methods to address correlated features.
+
+there are many more ways through which we can make this project more better which we will explore in future 
